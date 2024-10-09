@@ -41,7 +41,7 @@ This project is a Clinic Inventory Management System, a web application designed
 1. **🏠 Home Page**: The main entry point for users, offering navigation options for both admin and staff. It ensures easy access to the application's features.
 ![Home Page](screenshot_home.PNG)
 
-2. **📝 Registration Page**: New users can create their accounts by entering essential information, such as username and password.
+2. **📝 Registration Page**: New users can create their accounts by entering essential information such as username and password.
  ![Admin Registration Page](screenshot/admin_register.PNG)
  ![Staff Registration Page](screenshot/staff_register.PNG)
 
@@ -49,19 +49,19 @@ This project is a Clinic Inventory Management System, a web application designed
 ![Admin Login Page](screenshot/admin_login.PNG)
 ![Staff Login Page](screenshot/staff_login.PNG)
 
-4. **👨‍💼 Admin Home Page**: Admin users can access various functionalities, including inventory management and report viewing. The layout provides an overview of the system's key features and quick access to essential tasks.
+4. **👨‍💼 Admin Home Page**: Admin users can access various functionalities including inventory management and report viewing. The layout provides an overview of the system's key features and quick access to essential tasks.
  ![Admin Home Page](screenshot/admin_home.PNG)
 
-5. **📋 Admin Inventory List Page**: Displays all inventory items within the clinic, including details such as inventory name, inventory number, description, expiry date, quantity, category, and price.
+5. **📋 Admin Inventory List Page**: Displays all inventory items within the clinic including details such as inventory name, inventory number, description, expiry date, quantity, category and price.
  ![Admin Inventory List Page](screenshot/admin_inventoryList.PNG)
 
-6. **🔧 Admin Inventory Management Page**: Allows admin users to view, add, update, and delete inventory item information.
+6. **🔧 Admin Inventory Management Page**: Allows admin users to view, add, update and delete inventory item information.
 ![Admin Inventory Management Page](screenshot/admin_inventoryManagement.PNG)
 
 7. **📊 Admin Report Page**: Enables admin users to generate and view reports.
  ![Admin Report Page](screenshot/admin_report.PNG)
 
-8. **👩‍⚕️👨‍⚕️Staff Home Page**: The main dashboard for staff members, providing quick access to the inventory information. This page is designed for efficient navigation and streamlined operations within the clinic.  
+8. **👩‍⚕️👨‍⚕️Staff Home Page**: The main dashboard for staff members providing quick access to the inventory information. This page is designed for efficient navigation and streamlined operations within the clinic.  
    ![Staff Home Page](screenshot/staff_home.PNG)
 
 9. **📋 Staff Inventory List Page**: Staff members can view all available inventory items in the clinic, allowing quick access to information without manual searching for efficient operations.

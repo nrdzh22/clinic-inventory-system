@@ -39,7 +39,7 @@ This project is a Clinic Inventory Management System, a web application designed
 
 ## 📷 Screenshot
 1. **🏠 Home Page**: The main entry point for users, offering navigation options for both admin and staff. It ensures easy access to the application's features.
-![Home Page](screenshot/home.PNG)
+![Home Page](screenshot/home.png)
 
 2. **📝 Registration Page**: New users can create their accounts by entering essential information such as username and password.
  ![Admin Registration Page](screenshot/admin_register.PNG)
